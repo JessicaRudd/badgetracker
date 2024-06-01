@@ -1,6 +1,6 @@
 {
     "name": "RTC Badge Tracker",
-    "short_name": "RTC ACE Badge Tracker",
+    "short_name": "RTC PDBE Badge Tracker",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#4285F4",
