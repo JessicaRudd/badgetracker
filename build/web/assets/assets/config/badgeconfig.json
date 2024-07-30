@@ -1,0 +1,121 @@
+{
+    "campaign": "Professional Database Engineer",
+    "community": "GDG Atlanta - GDG Boston",
+    "link": "https://gdg.community.dev/gdg-atlanta/",
+    "badgesEndpoint": "https://us-central1-gdg-atl-378120.cloudfunctions.net/getBadges",
+    "sessions": [
+        {
+            "index": 0,
+            "isSelected": false,
+            "isComplete": false,
+            "date": "2024-08-07T00:00:00Z",
+            "badges": [
+                {
+                    "badgeTitle": "How Google Does Machine Learning",
+                    "link": "https://www.cloudskillsboost.google/course_templates/10",
+                    "isComplete": false
+                },
+                {
+                    "badgeTitle": "Launching into Machine Learning",
+                    "link": "https://www.cloudskillsboost.google/course_templates/8",
+                    "isComplete": false
+                }
+            ]
+        },
+        {
+            "index": 1,
+            "isSelected": false,
+            "isComplete": false,
+            "date": "2024-08-21T00:00:00Z",
+            "badges": [
+                {
+                    "badgeTitle": "TensorFlow on Google Cloud",
+                    "link": "https://www.cloudskillsboost.google/course_templates/12",
+                    "isComplete": false
+                },
+              {
+                "badgeTitle": "Feature Engineering",
+                "link": "https://www.cloudskillsboost.google/course_templates/11",
+                "isComplete": false
+              }
+            ]
+        },
+        {
+            "index": 2,
+            "isSelected": false,
+            "date": "2024-09-04T00:00:00Z",
+            "isComplete": false,
+            "badges": [
+                {
+                    "badgeTitle": "Machine Learning in the Enterprise",
+                    "link": "https://www.cloudskillsboost.google/course_templates/9",
+                    "isComplete": false
+                }
+            ]
+        },
+        {
+            "index": 3,
+            "isSelected": false,
+            "date": "2024-09-18T00:00:00Z",
+            "isComplete": false,
+            "badges": [
+                {
+                    "badgeTitle": "Production Machine Learning Systems",
+                    "link": "https://www.cloudskillsboost.google/course_templates/17",
+                    "isComplete": false
+                },
+                {
+                    "badgeTitle": "Computer Vision Fundamentals with Google Cloud",
+                    "link": "https://www.cloudskillsboost.google/course_templates/18",
+                    "isComplete": false
+                }
+            ]
+        },
+        {
+            "index": 4,
+            "isSelected": false,
+            "date": "2024-10-02T00:00:00Z",
+            "isComplete": false,
+            "badges": [
+                {
+                    "badgeTitle": "Natural Language Processing on Google Cloud",
+                    "link": "https://www.cloudskillsboost.google/course_templates/40",
+                    "isComplete": false
+                },
+                {
+                    "badgeTitle": "Recommendation Systems on Google Cloud",
+                    "link": "https://www.cloudskillsboost.google/course_templates/39",
+                    "isComplete": false
+                }
+            ]
+        },
+        {
+            "index": 5,
+            "isSelected": false,
+            "date": "2024-10-16T00:00:00Z",
+            "isComplete": false,
+            "badges": [
+                {
+                    "badgeTitle": "Machine Learning Operations (MLOps): Getting Started",
+                    "link": "https://www.cloudskillsboost.google/course_templates/158",
+                    "isComplete": false
+                },
+                {
+                    "badgeTitle": "ML Pipelines on Google Cloud",
+                    "link": "https://www.cloudskillsboost.google/course_templates/191",
+                    "isComplete": false
+                },
+                {
+                    "badgeTitle": "Prepare Data for ML APIs on Google Cloud",
+                    "link": "https://www.cloudskillsboost.google/course_templates/631",
+                    "isComplete": false
+                },
+                {
+                    "badgeTitle": "Build and Deploy Machine Learning Solutions on Vertex AI",
+                    "link": "https://www.cloudskillsboost.google/course_templates/684",
+                    "isComplete": false
+                }
+            ]
+        }
+    ]
+}
