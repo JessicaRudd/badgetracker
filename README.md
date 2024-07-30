@@ -4,7 +4,8 @@
 
 - This is the "unofficial" GDG RTC campaign badge tracker.
 - This web-based tracker was developed in Flutter, powered by the Google Cloud (hosted in Firebase Cloud Firestore, powered by Google Cloud Functions)
-- It was originally designed for the GDG Lawrence community by Roman Jaquez
+- It was originally designed for the GDG Lawrence community
+- I've been making updates to it so as to make it generic enough so that any other community engaging in the RTC (Road To Certification) GDG Campaign can use it effectively.
 
 ## Features
 - Track the number of sessions in the RTC campaign
@@ -217,7 +218,7 @@ This is a sample of the **badgeconfig.json** structure:
 
 Thank you for your support!
 
-### Don't forget to follow Roman on social media:
+### Don't forget to follow me on social media:
 
 - On Twitter ([@drcoderz](https://www.twitter.com/drcoderz))
 - On YouTube ([Roman Just Codes](https://www.youtube.com/channel/UCKsp3r1ERjCpKJtD2n5WtPg))
