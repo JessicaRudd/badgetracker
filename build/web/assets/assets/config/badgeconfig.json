@@ -8,47 +8,42 @@
             "index": 0,
             "isSelected": false,
             "isComplete": false,
-            "date": "2024-08-07T00:00:00Z",
+            "date": "2024-06-18T00:00:00Z",
             "badges": [
                 {
-                    "badgeTitle": "How Google Does Machine Learning",
-                    "link": "https://www.cloudskillsboost.google/course_templates/10",
+                    "badgeTitle": "Google Cloud Fundamentals: Core Infrastructure",
+                    "link": "https://www.cloudskillsboost.google/paths/22/course_templates/60",
                     "isComplete": false
                 },
-                {
-                    "badgeTitle": "Launching into Machine Learning",
-                    "link": "https://www.cloudskillsboost.google/course_templates/8",
-                    "isComplete": false
-                }
             ]
         },
         {
             "index": 1,
             "isSelected": false,
             "isComplete": false,
-            "date": "2024-08-21T00:00:00Z",
+            "date": "2024-07-02T00:00:00Z",
             "badges": [
                 {
-                    "badgeTitle": "TensorFlow on Google Cloud",
-                    "link": "https://www.cloudskillsboost.google/course_templates/12",
+                    "badgeTitle": "Enterprise Data Migration",
+                    "link": "https://www.cloudskillsboost.google/paths/22/course_templates/145",
                     "isComplete": false
                 },
-              {
-                "badgeTitle": "Feature Engineering",
-                "link": "https://www.cloudskillsboost.google/course_templates/11",
-                "isComplete": false
-              }
             ]
         },
         {
             "index": 2,
             "isSelected": false,
-            "date": "2024-09-04T00:00:00Z",
+            "date": "2024-07-16T00:00:00Z",
             "isComplete": false,
             "badges": [
                 {
-                    "badgeTitle": "Machine Learning in the Enterprise",
-                    "link": "https://www.cloudskillsboost.google/course_templates/9",
+                    "badgeTitle": "Migrate MySQL Data to Cloud SQL using Database Migration Service",
+                    "link": "https://www.cloudskillsboost.google/paths/22/course_templates/629",
+                    "isComplete": false
+                },
+                               {
+                    "badgeTitle": "Create and Manage Cloud SQL for Postgres Instances",
+                    "link": "https://www.cloudskillsboost.google/paths/22/course_templates/652",
                     "isComplete": false
                 }
             ]
@@ -56,17 +51,17 @@
         {
             "index": 3,
             "isSelected": false,
-            "date": "2024-09-18T00:00:00Z",
+            "date": "2024-09=7-30T00:00:00Z",
             "isComplete": false,
             "badges": [
                 {
-                    "badgeTitle": "Production Machine Learning Systems",
-                    "link": "https://www.cloudskillsboost.google/course_templates/17",
+                    "badgeTitle": "Create and Manage Cloud Spanner Instances",
+                    "link": "https://www.cloudskillsboost.google/paths/22/course_templates/643",
                     "isComplete": false
                 },
                 {
-                    "badgeTitle": "Computer Vision Fundamentals with Google Cloud",
-                    "link": "https://www.cloudskillsboost.google/course_templates/18",
+                    "badgeTitle": "Create and Manage Bigtable Instances",
+                    "link": "https://www.cloudskillsboost.google/paths/22/course_templates/650",
                     "isComplete": false
                 }
             ]
@@ -74,48 +69,15 @@
         {
             "index": 4,
             "isSelected": false,
-            "date": "2024-10-02T00:00:00Z",
+            "date": "2024-08-13T00:00:00Z",
             "isComplete": false,
             "badges": [
                 {
-                    "badgeTitle": "Natural Language Processing on Google Cloud",
-                    "link": "https://www.cloudskillsboost.google/course_templates/40",
+                    "badgeTitle": "Create and Manage AlloyDB Instances",
+                    "link": "https://www.cloudskillsboost.google/paths/22/course_templates/642",
                     "isComplete": false
                 },
-                {
-                    "badgeTitle": "Recommendation Systems on Google Cloud",
-                    "link": "https://www.cloudskillsboost.google/course_templates/39",
-                    "isComplete": false
-                }
             ]
         },
-        {
-            "index": 5,
-            "isSelected": false,
-            "date": "2024-10-16T00:00:00Z",
-            "isComplete": false,
-            "badges": [
-                {
-                    "badgeTitle": "Machine Learning Operations (MLOps): Getting Started",
-                    "link": "https://www.cloudskillsboost.google/course_templates/158",
-                    "isComplete": false
-                },
-                {
-                    "badgeTitle": "ML Pipelines on Google Cloud",
-                    "link": "https://www.cloudskillsboost.google/course_templates/191",
-                    "isComplete": false
-                },
-                {
-                    "badgeTitle": "Prepare Data for ML APIs on Google Cloud",
-                    "link": "https://www.cloudskillsboost.google/course_templates/631",
-                    "isComplete": false
-                },
-                {
-                    "badgeTitle": "Build and Deploy Machine Learning Solutions on Vertex AI",
-                    "link": "https://www.cloudskillsboost.google/course_templates/684",
-                    "isComplete": false
-                }
-            ]
-        }
     ]
 }
