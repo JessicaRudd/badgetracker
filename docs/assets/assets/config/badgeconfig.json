@@ -1,0 +1,83 @@
+{
+    "campaign": "Professional Database Engineer",
+    "community": "GDG Atlanta - GDG Boston",
+    "link": "https://gdg.community.dev/gdg-atlanta/",
+    "badgesEndpoint": "https://us-central1-gdg-atl-378120.cloudfunctions.net/getBadges",
+    "sessions": [
+        {
+            "index": 0,
+            "isSelected": false,
+            "isComplete": false,
+            "date": "2024-06-18T00:00:00Z",
+            "badges": [
+                {
+                    "badgeTitle": "Google Cloud Fundamentals: Core Infrastructure",
+                    "link": "https://www.cloudskillsboost.google/paths/22/course_templates/60",
+                    "isComplete": false
+                },
+            ]
+        },
+        {
+            "index": 1,
+            "isSelected": false,
+            "isComplete": false,
+            "date": "2024-07-02T00:00:00Z",
+            "badges": [
+                {
+                    "badgeTitle": "Enterprise Data Migration",
+                    "link": "https://www.cloudskillsboost.google/paths/22/course_templates/145",
+                    "isComplete": false
+                },
+            ]
+        },
+        {
+            "index": 2,
+            "isSelected": false,
+            "date": "2024-07-16T00:00:00Z",
+            "isComplete": false,
+            "badges": [
+                {
+                    "badgeTitle": "Migrate MySQL Data to Cloud SQL using Database Migration Service",
+                    "link": "https://www.cloudskillsboost.google/paths/22/course_templates/629",
+                    "isComplete": false
+                },
+                               {
+                    "badgeTitle": "Create and Manage Cloud SQL for Postgres Instances",
+                    "link": "https://www.cloudskillsboost.google/paths/22/course_templates/652",
+                    "isComplete": false
+                }
+            ]
+        },
+        {
+            "index": 3,
+            "isSelected": false,
+            "date": "2024-09=7-30T00:00:00Z",
+            "isComplete": false,
+            "badges": [
+                {
+                    "badgeTitle": "Create and Manage Cloud Spanner Instances",
+                    "link": "https://www.cloudskillsboost.google/paths/22/course_templates/643",
+                    "isComplete": false
+                },
+                {
+                    "badgeTitle": "Create and Manage Bigtable Instances",
+                    "link": "https://www.cloudskillsboost.google/paths/22/course_templates/650",
+                    "isComplete": false
+                }
+            ]
+        },
+        {
+            "index": 4,
+            "isSelected": false,
+            "date": "2024-08-13T00:00:00Z",
+            "isComplete": false,
+            "badges": [
+                {
+                    "badgeTitle": "Create and Manage AlloyDB Instances",
+                    "link": "https://www.cloudskillsboost.google/paths/22/course_templates/642",
+                    "isComplete": false
+                },
+            ]
+        },
+    ]
+}
