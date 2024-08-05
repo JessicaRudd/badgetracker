@@ -14,7 +14,7 @@
                     "badgeTitle": "Google Cloud Fundamentals: Core Infrastructure",
                     "link": "https://www.cloudskillsboost.google/paths/22/course_templates/60",
                     "isComplete": false
-                },
+                }
             ]
         },
         {
@@ -27,7 +27,7 @@
                     "badgeTitle": "Enterprise Data Migration",
                     "link": "https://www.cloudskillsboost.google/paths/22/course_templates/145",
                     "isComplete": false
-                },
+                }
             ]
         },
         {
@@ -76,8 +76,8 @@
                     "badgeTitle": "Create and Manage AlloyDB Instances",
                     "link": "https://www.cloudskillsboost.google/paths/22/course_templates/642",
                     "isComplete": false
-                },
+                }
             ]
-        },
+        }
     ]
 }
